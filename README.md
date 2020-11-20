@@ -1,3 +1,5 @@
+**NOTE:** development has moved to [serdelicacy](https://github.com/pappasam/serdelicacy).
+
 # serdataclasses
 
 [![image-version](https://img.shields.io/pypi/v/serdataclasses.svg)](https://python.org/pypi/serdataclasses)
